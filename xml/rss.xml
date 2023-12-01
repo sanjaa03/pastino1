@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>Obaveštenja</title>
+<link>    </link>
+<description>Obaveštenje broj 1</description>
+
+<item>
+<title>Obaveštenja</title>
+<link>    </link>
+<description>Obaveštenje broj 1</description>
+</item>
+
+<title>Obaveštenja</title>
+<link>    </link>
+<description>Obaveštenje broj 2</description>
+
+<title>Obaveštenja</title>
+<link>    </link>
+<description>Obaveštenje broj 3</description>
+
+</channel>
+</rss>
